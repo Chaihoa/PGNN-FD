@@ -1,1 +1,1 @@
-# A-Physics-Informed-Graph-Neural-Network-Framework-for-Fault-Diagnosis-in-Cable-Driven-Manipulators
+PGNN-FD
